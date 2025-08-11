@@ -3,5 +3,45 @@
         "name": "Slope Game",
         "slug": "slope-game",
         "image": "/cache/data/image/game/slope-game/slope-game-m186x186.webp"
+    },
+    {
+        "name": "Snow Rider 3D",
+        "slug": "snow-rider-3d",
+        "image": "/cache/data/image/game/snow-rider-3d/snow-rider-3d-m186x186.webp"
+    },
+    {
+        "name": "Slope 3D",
+        "slug": "slope-3d",
+        "image": "/cache/data/image/game/slope-3d/slope-3d-m186x186.webp"
+    },
+    {
+        "name": "Crazy Roll 3D",
+        "slug": "crazy-roll-3d",
+        "image": "/cache/data/image/game/crazy-roll-3d/crazy-roll-3d-m186x186.webp"
+    },
+    {
+        "name": "Ball Run 2048",
+        "slug": "ball-run-2048",
+        "image": "/cache/data/image/game/ball-run-20248/ball-run-20248-m186x186.webp"
+    },
+    {
+        "name": "AquaPark.Io",
+        "slug": "aquapark-io",
+        "image": "/cache/data/image/game/aquapark-io/aquapark-io-m186x186.webp"
+    },
+    {
+        "name": "Run 3",
+        "slug": "run-3",
+        "image": "/cache/data/image/game/run-3/run-3-m186x186.webp"
+    },
+    {
+        "name": "Drift Boss",
+        "slug": "drift-boss",
+        "image": "/cache/data/image/game/drift-boss/drift-boss-m186x186.webp"
+    },
+    {
+        "name": "Slope Soccer",
+        "slug": "slope-soccer",
+        "image": "/cache/data/image/game/slope-soccer/slope-soccer-m186x186.webp"
     }
 ]
